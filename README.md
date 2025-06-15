@@ -26,6 +26,7 @@ This project demonstrates a complete machine learning workflow for classifying i
 | `figures/iris_confusion_matrix.png` | Confusion matrix visualization |
 | `figures/iris_feature_distribution.png` | Feature distribution by species |
 | `figures/iris_decision_tree.png` | Decision tree structure visualization |
+| `figures/iris_classification_explanation.mp4` | Video Explanation |
 
 ## Requirements
 ```python
@@ -41,7 +42,7 @@ seaborn==0.12.2
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/iris-classification.git
+git clone https://github.com/N_Segecha/iris-classification.git
 cd iris-classification
 ```
 ## Create virtual environment (optional but recommended):
