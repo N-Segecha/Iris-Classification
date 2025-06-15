@@ -64,6 +64,8 @@ jupyter notebook iris_classification.ipynb
 Go to Kernel > Restart & Run All in Jupyter
 
 # 🎥 Video Explanation (45 seconds)
+[🎥 Iris Classification Explained (video)](Figures/iris_classification_explanation.mp4)
+
 ✅ Dataset overview and feature distributions
 
 ✅ Model training process
