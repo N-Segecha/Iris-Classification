@@ -17,16 +17,16 @@ This project demonstrates a complete machine learning workflow for classifying i
   - Versicolor
   - Virginica
 
-![Confusion Matrix](figures/iris_confusion_matrix.png)
+![Confusion Matrix](Figures/iris_confusion_matrix.png)
 
 ## Files Included
 | File | Description |
 |------|-------------|
 | `iris_classification.ipynb` | Main Jupyter Notebook |
-| `figures/iris_confusion_matrix.png` | Confusion matrix visualization |
-| `figures/iris_feature_distribution.png` | Feature distribution by species |
-| `figures/iris_decision_tree.png` | Decision tree structure visualization |
-| `figures/iris_classification_explanation.mp4` | Video Explanation |
+| `Figures/iris_confusion_matrix.png` | Confusion matrix visualization |
+| `Figures/iris_feature_distribution.png` | Feature distribution by species |
+| `Figures/iris_decision_tree.png` | Decision tree structure visualization |
+| `Figures/iris_classification_explanation.mp4` | Video Explanation |
 
 ## Requirements
 ```python
