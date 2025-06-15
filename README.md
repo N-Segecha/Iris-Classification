@@ -42,7 +42,7 @@ seaborn==0.12.2
 ## Clone Repository
 
 ```bash
-git clone https://github.com/N_Segecha/iris-classification.git
+git clone https://github.com/N-Segecha/iris-classification.git
 cd iris-classification
 ```
 ## Create virtual environment (optional but recommended):
